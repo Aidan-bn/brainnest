@@ -70,6 +70,12 @@ figure {
     text-align: center;
 }
 
+figcaption {
+    font-weight: 400;
+    color: rgb(117, 51, 4);
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
 p {
     margin: auto;
     width: 30%;
@@ -79,4 +85,8 @@ p {
     padding: 20px;
     border-radius: 7px;
     text-align: justify;
+}
+
+.yoga {
+    border-radius: 60px 4px 60px 30px;
 }
